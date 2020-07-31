@@ -1,0 +1,15 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Pruebas sobre componente Gif Grid Item should be return a GifGridItem rendered 1`] = `
+<div
+  className="card animate__animated animate__fadeIn"
+>
+  <img
+    alt="Goku vs vegeta"
+    src="http://localhost/gif.jpg"
+  />
+  <p>
+    Goku vs vegeta
+  </p>
+</div>
+`;

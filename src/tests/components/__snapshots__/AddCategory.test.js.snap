@@ -1,0 +1,16 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Test in <AddCategory/> component should be render <AddCategory/>  1`] = `
+<form
+  onSubmit={[Function]}
+>
+  <h3>
+    Add Category
+  </h3>
+  <input
+    onChange={[Function]}
+    type="text"
+    value=""
+  />
+</form>
+`;
