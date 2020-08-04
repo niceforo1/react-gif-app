@@ -4,6 +4,7 @@ exports[`Test in <AddCategory/> component should be render <AddCategory/>  1`] =
 <form
   onSubmit={[Function]}
 >
+  <p />
   <h3>
     Add Category
   </h3>
